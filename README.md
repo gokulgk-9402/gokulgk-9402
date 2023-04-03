@@ -9,6 +9,4 @@ Hi! I'm Gokul 👋 and I code... 🧑‍💻
 
 I'm currently doing my final year of B.Tech in Computer Science and Engineering at Indian Institute of Technology, Hyderabad. I love working on programming languages like Python, Javascript and on frameworks like React, Django, React Native. 
 
-<div align="center">
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulgk-9402)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulgk-9402&show_icons=true&theme=dark&count_private=true)
